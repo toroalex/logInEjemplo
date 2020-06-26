@@ -1,0 +1,7 @@
+DE DONDE SE HIZO EL PROGRAMA:
+
+https://codingpotions.com/angular-login-sesion
+
+se podra ver el codigo aqui:  https://codesandbox.io/s/compassionate-voice-p5h32?file=/src/app/register/register.component.ts
+
+1. 
